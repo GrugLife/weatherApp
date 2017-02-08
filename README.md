@@ -1,0 +1,1 @@
+This is a weather app I created using Python and Twilio.  The app scrapes a weather website for my local weather, then using Twilio, will send me a text message every morning with today's and tomorrow's weather report.  Using Windows automate task functions, this program will run everyday without having to manually run the program.
